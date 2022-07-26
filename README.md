@@ -5,8 +5,6 @@ Functionlaties
 - transform text to audio
 - speech to text functionality
 
-Note
-The assets file 
-https://drive.google.com/drive/folders/1RnQdooUi1lgwq5Vlb7hOiPiLHYhZeHZ2?usp=sharing
+
 
 
