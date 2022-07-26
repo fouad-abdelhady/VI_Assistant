@@ -1,0 +1,14 @@
+{
+    "files": [
+      "eng.traineddata",
+      "ara.traineddata",
+      "chi_sim_vert.traineddata",
+      "chi_sim.traineddata",
+      "chi_tra_vert.traineddata",
+      "chi_tra.traineddata",
+      "deu_frak.traineddata",
+      "deu.traineddata",
+      "rus.traineddata",
+      "spa.traineddata"
+    ]
+  }
