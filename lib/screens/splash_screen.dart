@@ -82,7 +82,7 @@ class _SplashScreenState extends State<SplashScreen> {
                               fontFamily: "dosis",
                               fontSize: 20,
                               fontWeight: FontWeight.bold)),
-                      Text(" Salha",
+                      Text(" Fouad Abdelhady",
                           style: TextStyle(
                               fontFamily: "dosis",
                               fontSize: 20,
@@ -105,6 +105,6 @@ class _SplashScreenState extends State<SplashScreen> {
 
   void _displayWelcomeMessage() async {
     await Future.delayed(Duration(seconds:3 ), () {});
-    _textSpeech.speak(text: "Wellcome in Iron man Jarvis");
+    _textSpeech.speak(text: "Wellcome in VI Assistant");
   }
 }
